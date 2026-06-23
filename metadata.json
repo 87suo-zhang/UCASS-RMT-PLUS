@@ -1,0 +1,6 @@
+{
+  "name": "社科大融媒体直转播助手",
+  "description": "中国社会科学院大学融媒体社直转播实战知识库与社员论坛。包含：1.摄像模块（Sony Z190使用与视听参数）；2.字幕模块（vMix / GT Title Designer 快速制作与同步）；3.导播模块（时代奥视 OSSE ISO 8 多机位切换策略与应急方案）；4.交流论坛及AI导演咨询顾问。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
